@@ -50,7 +50,7 @@ export default function Home() {
             🌙
           </div>
           <h1 className="text-5xl sm:text-6xl font-bold text-amber-300 tracking-wide mb-3 font-serif drop-shadow-[0_0_20px_rgba(253,230,138,0.3)]">
-            Storista
+            STORY TIME
           </h1>
           <p className="text-blue-200/80 text-base sm:text-lg max-w-sm mx-auto leading-relaxed">
             Turn your child&apos;s day into a magical bedtime story

@@ -15,7 +15,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Storista — Bedtime Story Generator",
+  title: "STORY TIME — Bedtime Story Generator",
   description:
     "Turn your child's day into a magical, personalized bedtime story with AI.",
 };

@@ -43,7 +43,7 @@ Requirements:
         "Content-Type": "application/json",
         "HTTP-Referer":
           typeof window !== "undefined" ? window.location.origin : "storista",
-        "X-Title": "Storista",
+        "X-Title": "STORY TIME",
       },
       body: JSON.stringify({
         model,
